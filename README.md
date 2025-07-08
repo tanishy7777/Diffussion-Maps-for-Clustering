@@ -94,8 +94,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/diffusion-maps-timeseries.git
 cd diffusion-maps-timeseries
-Install dependencies:
 ```
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -115,8 +115,11 @@ Visualization: Embeddings in diffusion space reveal clear, well-separated cluste
 
 ## References
 UCI Machine Learning Repository, Human Activity Recognition Using Smartphones.
+
 Wikipedia: Markov Chain, Diffusion Map.
+
 Coifman, R.R. et al., "Geometric Diffusions as a Tool for Harmonics Analysis and Structure Definition of Data: Diffusion Maps," PNAS, 2005.
+
 NPTEL IIT Guwahati, "Lec 49: Diffusion maps," YouTube, 2022.
 
 ## Acknowledgements
