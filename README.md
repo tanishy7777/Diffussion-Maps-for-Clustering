@@ -82,15 +82,6 @@ DTW distance is crucial for meaningful similarity between time series.
 
 Visualization: Embeddings in diffusion space reveal clear, well-separated clusters corresponding to human activities.
 
-## References
-UCI Machine Learning Repository, Human Activity Recognition Using Smartphones.
-
-Wikipedia: Markov Chain, Diffusion Map.
-
-Coifman, R.R. et al., "Geometric Diffusions as a Tool for Harmonics Analysis and Structure Definition of Data: Diffusion Maps," PNAS, 2005.
-
-NPTEL IIT Guwahati, "Lec 49: Diffusion maps," YouTube, 2022.
-
 ## Acknowledgements
 Inspired by academic lectures and open-source implementations.
 
