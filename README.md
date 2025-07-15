@@ -58,24 +58,6 @@ t-SNE	~0.26	~0.30
 Raw Features	~0.30	~0.13
 Diffusion maps outperform other methods in both clustering accuracy and cluster separation.
 
-## How to Run
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/diffusion-maps-timeseries.git
-cd diffusion-maps-timeseries
-```
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-Download the UCI-HAR dataset and place it in the data/ directory as described above.
-```
-Run the main script:
-
-```bash
-python diffusion_maps_clustering.py
-```
 ## Observations
 Diffusion maps capture the nonlinear manifold structure of time series data, outperforming PCA and t-SNE in both ARI and silhouette score.
 
