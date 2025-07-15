@@ -12,6 +12,15 @@ This project demonstrates unsupervised clustering of time series data using diff
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8c909aa2-79bc-47ea-9aa9-1e296db2011e" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/faa26b74-4279-471c-a94d-2200c7227d64" />
 
+### Clustering Results
+
+| Method           | ARI   | Silhouette Score |
+|------------------|------:|-----------------:|
+| Diffusion Maps   | 0.470 | 0.688            |
+| PCA              | 0.390 | 0.456            |
+| t-SNE            | 0.257 | 0.300            |
+| Raw Features     | 0.297 | 0.130            |
+
 
 ## Introduction
 Time series clustering is challenging due to high dimensionality and complex, nonlinear relationships. Diffusion maps address this by constructing a Markov process over the data, capturing both local and global structures, and providing an embedding where similar time series are closer together. This project applies diffusion maps to the UCI-HAR dataset and compares the results to PCA, t-SNE, and raw feature clustering.
