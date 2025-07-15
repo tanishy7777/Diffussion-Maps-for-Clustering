@@ -68,12 +68,12 @@ t-SNE: Nonlinear, focuses on local neighborhoods.
 Raw Feature Space: Baseline clustering.
 
 ## Results
-Method	ARI (Clustering Accuracy)	Silhouette Score (Separation)
-Diffusion Maps	~0.47	~0.61–0.69
-PCA	~0.39	~0.46
-t-SNE	~0.26	~0.30
-Raw Features	~0.30	~0.13
-Diffusion maps outperform other methods in both clustering accuracy and cluster separation.
+| Method           | ARI   | Silhouette Score |
+|------------------|------:|-----------------:|
+| Diffusion Maps   | 0.470 | 0.688            |
+| PCA              | 0.390 | 0.456            |
+| t-SNE            | 0.257 | 0.300            |
+| Raw Features     | 0.297 | 0.130            |
 
 ## Observations
 Diffusion maps capture the nonlinear manifold structure of time series data, outperforming PCA and t-SNE in both ARI and silhouette score.
