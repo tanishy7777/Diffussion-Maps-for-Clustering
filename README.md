@@ -6,9 +6,9 @@ Code notebook along with results: https://www.tanishyelgoe.tech/blog/2025/Diffus
 This project demonstrates unsupervised clustering of time series data using diffusion maps, a nonlinear dimensionality reduction technique. The approach is benchmarked on the UCI-HAR (Human Activity Recognition) dataset and compared against PCA, t-SNE, and clustering in the raw feature space. The goal is to show how diffusion maps can reveal meaningful clusters in complex, high-dimensional time series data.
 
 ### Visualization of clusters(both 2D and 3d) using different dimensionality reduction techniques
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f662d5d9-e630-4422-a023-8949d56218e6" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2273704f-4d73-4568-a960-4fb298117b38" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a42be174-7334-49c0-9750-f48208a62fd2" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f662d5d9-e630-4422-a023-8949d56218e6" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2273704f-4d73-4568-a960-4fb298117b38" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a42be174-7334-49c0-9750-f48208a62fd2" />
 
 --------------------------------------------------------------------------------------------------------------------------------
 
